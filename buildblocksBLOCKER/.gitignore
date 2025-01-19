@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.class
+.eggs/
+*.egg-info/
+dist/
+build/
+.env
+venv/
+.venv/
+
+# macOS
+.DS_Store
+node_modules/
+dist/
+build/
+*.egg-info
+*.pyc
+__pycache__/
+.DS_Store
